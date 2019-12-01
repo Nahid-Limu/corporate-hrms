@@ -1,0 +1,1 @@
+<h2 style="color: red; text-align: center; margin-top: 10%"> <marquee>Sorry! You don’t have permission to access/ Server is under maintenance. </marquee>	</h2>

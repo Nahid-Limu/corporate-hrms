@@ -1,0 +1,5 @@
+Project Management
+•	Sprint wise work distribution
+•	Internal file sharing system
+•	Internal chatting system between team members
+•	Rating system for employee (Rating by Team Leader/Project manager)

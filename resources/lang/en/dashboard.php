@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' =>'Dashboard',
+    'home' =>'Home',
+    'employee' =>'Employee',
+    'active_employee' =>'Active Employee',
+    'inactive_employee' =>'Inactive Employee',
+    'male_employee' =>'Male Employee',
+    'female_employee' =>'Female Employee',
+    'favourite_employee' =>'Favourite Employee',
+    'employee_group' =>'Employee Group',
+    'branch' =>'Branch',
+    'designation' =>'Designation',
+    'department' =>'Department',
+    'clients' =>'Clients',
+    'project' =>'Project',
+    'training' =>'Training',
+    'working_shift' =>'Working Shift',
+    'today_attendance' =>'Today Attendance',
+    'upcoming_meetings' =>'Upcoming Meetings',
+    'new_employee_list' =>'New Employee List',
+    'today_late_employee_list' =>"Today's Late Employee List",
+    'upcoming_notice_and_announcement' =>'Upcoming Notice And Announcement',
+    'today_Onleave_employee_list' =>"Today's Onleave Employee List",
+    'pending_leave_request' =>'Pending Leave Request',
+    'today_expense_list' =>"Today's Expense List",
+];
